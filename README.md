@@ -1,6 +1,6 @@
 # DogCrazyGlb
 
-- Se crea un portfolio y se le agrega una imagen en 3D. 
+- Se crea un portfolio y se le agrega una imagen en 3D, la cual se puede manipular con el . 
 
 ---
 
