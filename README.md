@@ -1,6 +1,6 @@
 # DogCrazyGlb
 
-- Se crea un portfolio y se le agrega una imagen en 3D, la cual se puede manipular con el cursor. 
+- Se crea un portfolio y con imagen 3D, la cual se puede manipular con el cursor. 
 
 
 <a href="https://sitedogi.netlify.app/index.html">Ver WebSite</a>
