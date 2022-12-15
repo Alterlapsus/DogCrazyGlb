@@ -21,7 +21,6 @@ Tecnologías utilizadas:
 
 ---
 
-
 Descargar de archivos: 
 
 - git 
