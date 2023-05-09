@@ -19,7 +19,7 @@ Tecnologías utilizadas:
 - HTML 
 - CSS
 
----
+--- 
 
 Descargar de archivos: 
 
